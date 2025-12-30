@@ -40,12 +40,6 @@ ReluxOS 7 is **not a real operating system** and does not include kernel-level f
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or screen recordings here to showcase the interface.)*
-
----
-
 ## 🔮 Future Improvements
 
 - Expanded application ecosystem within the OS environment  
