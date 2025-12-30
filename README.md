@@ -26,8 +26,8 @@ By recreating an OS-like environment at the application level, I was able to exp
 
 ## 🛠️ Tech Stack
 
-- **Language(s):** *(Add here — e.g., JavaScript, Python, Java, etc.)*  
-- **Framework / Tools:** *(Add here — e.g., Electron, React, Tkinter, JavaFX, etc.)*  
+- **Language(s):** *Microsoft VisualBasic*  
+- **Framework / Tools:** *.NET Framework*  
 - **Design:** Custom UI components and layouts  
 
 *(Update this section based on what you actually used.)*
