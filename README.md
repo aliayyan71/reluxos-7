@@ -30,8 +30,6 @@ By recreating an OS-like environment at the application level, I was able to exp
 - **Framework / Tools:** *.NET Framework*  
 - **Design:** Custom UI components and layouts  
 
-*(Update this section based on what you actually used.)*
-
 ---
 
 ## ⚠️ Disclaimer
